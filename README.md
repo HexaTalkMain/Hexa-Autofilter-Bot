@@ -2,13 +2,13 @@
 <p align="center">
     <a href="https://github.com/HexaTalkMain/Hexa-Autofilter-Bot">
         <kbd>
-            <img width="250" src="https://telegra.ph/file/97b912ea5dc433afff1bc.jpg" alt="LUCIFER">
+            <img width="250" src="https://telegra.ph/file/f413f081697351ee7d7ba.jpg" alt="Hexa_Talk">
         </kbd>
     </a>
 </p>
 
 <h2 align="center">
-  ──「 ʟᴜᴄɪғᴇʀ 」──
+  ──「 HEXA_TALK 」──
 </h2>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=KD_BOTZ+MOVIE+SEARCH+BOT+!;CREATED+BY+KD_BOTZ+TEAM!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
