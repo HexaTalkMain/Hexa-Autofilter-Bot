@@ -11,11 +11,11 @@
   ──「 HEXA_TALK 」──
 </h2>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=KD_BOTZ+MOVIE+SEARCH+BOT+!;CREATED+BY+KD_BOTZ+TEAM!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HEXA_AUTOFILTER_BOT+MOVIE+SEARCH+BOT+!;CREATED+BY+HEXA_TALK!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
  ━━━━━━━━━━━━━━━━━━━━
-## ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟᴜᴄɪғᴇʀ](t.me/filter_lucifer_bot)
+## ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Hexa_Autofiter_Bot](t.me/Hexa_Autofilter_Bot)
 
 
 <a href="https://github.com/kdbotz/UrlShortner-AutoFilter-Bot/stargazers"><img src="https://img.shields.io/github/stars/kdbotz/UrlShortner-AutoFilter-Bot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -28,7 +28,7 @@
 
 
 
-### [ʟᴜᴄɪғᴇʀ ғᴇᴀᴛᴜʀᴇs](https://github.com/KDBotz/LUCIFER/wiki#features) 
+### [Hexa_Talk_Autofilter_Bot ғᴇᴀᴛᴜʀᴇs](https://github.com/KDBotz/LUCIFER/wiki#features) 
 ʟɪsᴛ ᴏғ ғᴇᴀᴛᴜʀᴇs sᴜᴘᴘᴏʀᴛᴇᴅ ʙʏ ʙᴏᴛ
 
 <details>
@@ -39,7 +39,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://github.com/KDBotz/UrlShortner-AutoFilter-Bot">
+<p align="center"><a href="https://github.com/HexaTalkMain/Hexa-Autofilter-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
@@ -67,7 +67,7 @@ python3 bot.py
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴋᴜɴᴀʟ](https://github.com/KDBOTZ)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/KDBOTZ/UrlShortner-AutoFilter-Bot) </b>
+- <b>[Hexa_Talk](https://github.com/HexaTalkMain)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/KDBOTZ/UrlShortner-AutoFilter-Bot) </b>
 - <b>[ᴇᴠᴀᴍᴀʀɪᴀ](https://github.com/EVAMARIATG)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://github.com/EVAMARIATG/EVAMARIA) </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/KDBotz/UrlShortner-AutoFilter-Bot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʟᴜᴄɪғᴇʀ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
