@@ -39,7 +39,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://github.com/HexaTalkMain/Hexa-Autofilter-Bot">
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/HexaTalkMain/Hexa-Autofilter-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
