@@ -3,6 +3,7 @@ import logging.config
 
 from aiohttp import web
 
+
 # Get logging configurations
 logging.config.fileConfig('logging.conf')
 logging.getLogger().setLevel(logging.INFO)
